@@ -4,9 +4,7 @@
 #   ssh_key: 
 #     - "<your public ssh key>"
 
-# IDs 0 and 1 are reserved!!
-
-- id: 2
+- id: 1
   name: "lecturers"
   ssh_key:
     - "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIDy4T0osxR8yS4RjJcsMn3rSacKvNzu+ZRNfe2lXTSHS jonas.jelonek"
