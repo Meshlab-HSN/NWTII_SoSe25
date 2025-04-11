@@ -35,6 +35,11 @@
   ssh_key:
     - "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIAxhKtsuRENa8bGgKiPjo/jVCe9ptLagFbBFpkvWOK/V peter@DennisLap"
 
+- id: 8
+  name: "Christian"
+  ssh_key:
+    - "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIJZUOyXW3CDcVqpyIcyiGFv3MZsWq3E3ditJbPIQf/vC benutzer@Inspiron-5570"
+
 - id: 9
   name: "Julian"
   ssh_key:
