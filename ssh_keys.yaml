@@ -44,3 +44,8 @@
   name: "Omar"
   ssh_key:
     - "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIEaF8rlCvEKAwPoCqyQRoEb+3PyzSJeU8RyPFCzeDDxV"
+
+- id: 13
+  name: "Christoph Boenisch"
+  ssh_key:
+    - "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIP6czETtXVxpaB5qVLoPFmZZQ1wQ8GL5qIQjegAUOstz kalich@pc04"
