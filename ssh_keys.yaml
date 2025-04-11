@@ -1,8 +1,8 @@
 # An entry has to look like:
-# - id: X
-#   name: "<your name>"
-#   ssh_key: 
-#     - "<your public ssh key>"
+ - id: 4
+   name: "timon.boehm"
+   ssh_key: 
+     - "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIEyNZlJD0p1dbIpAWvNTWHXVw3e5TMhVz7WIW15pk75i"
 
 - id: 1
   name: "lecturers"
