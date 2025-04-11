@@ -2,6 +2,6 @@ list(include('key_entry'))
 
 ---
 key_entry:
-  team: int(min=1,max=100)
+  id: int(min=1,max=100)
   name: str()
-  ssh_key: str()
+  ssh_key: list(str())
