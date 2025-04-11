@@ -35,7 +35,22 @@
   ssh_key:
     - "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIAxhKtsuRENa8bGgKiPjo/jVCe9ptLagFbBFpkvWOK/V peter@DennisLap"
 
+- id: 9
+  name: "Julian"
+  ssh_key:
+    - "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIOSXg2IB5bcx0eNlO7KSkHyrvha0vI8gh26wqJBileYp julian@machine"
+
+- id: 11
+  name: "Omar"
+  ssh_key:
+    - "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIEaF8rlCvEKAwPoCqyQRoEb+3PyzSJeU8RyPFCzeDDxV"
+
 - id: 12
   name : "Alex"
   ssh_key:
-    -"ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIC//QRSquqJF1FgTxkW+mIE9e7YY3VFMxi5CHVvLLQVb user@AleXSeINCoMPutER"
+    - "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIC//QRSquqJF1FgTxkW+mIE9e7YY3VFMxi5CHVvLLQVb user@AleXSeINCoMPutER"
+
+- id: 13
+  name: "Christoph Boenisch"
+  ssh_key:
+    - "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIP6czETtXVxpaB5qVLoPFmZZQ1wQ8GL5qIQjegAUOstz kalich@pc04"
