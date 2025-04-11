@@ -29,3 +29,8 @@
   name: "Niclas Bierwisch 45169"
   ssh_key:
     - "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAII2Cvrlzl6nz6uYg2COLUbhdHTjoBovL7L6eyB1d+4V3 nicla@April24"
+
+- id: 7
+  name: "Dennis"
+  ssh_key:
+    - "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIAxhKtsuRENa8bGgKiPjo/jVCe9ptLagFbBFpkvWOK/V peter@DennisLap"
