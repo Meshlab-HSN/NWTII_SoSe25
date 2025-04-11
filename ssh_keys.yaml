@@ -10,6 +10,26 @@
     - "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIDy4T0osxR8yS4RjJcsMn3rSacKvNzu+ZRNfe2lXTSHS jonas.jelonek"
     - "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIAuEbgtf+8T3yu+VWF+iLYwNtOJQSf8K4FIhiGhl4Uj0 til.kaiser"
 
+- id: 2
+  name: "nikolas"
+  ssh_key:
+    - "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIAhy+OF0tDYuIcz24NXWkBp9leX5uVZPg4gUEYFeSf46 nikolas@Wambo"
+
+- id: 3
+  name: "Felix"
+  ssh_key: 
+    - "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAINGuD5ehXAXhNtpAxRRCZpIKWWNETsjaQ4tFbRFk33La felix.schulze"
+
+- id: 4
+  name: "timon.boehm"
+  ssh_key: 
+    - "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIEyNZlJD0p1dbIpAWvNTWHXVw3e5TMhVz7WIW15pk75i"
+
+- id: 6
+  name: "Niclas Bierwisch 45169"
+  ssh_key:
+    - "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAII2Cvrlzl6nz6uYg2COLUbhdHTjoBovL7L6eyB1d+4V3 nicla@April24"
+
 - id: 7
   name: "Dennis"
   ssh_key:
