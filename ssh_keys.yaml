@@ -34,3 +34,8 @@
   name: "Dennis"
   ssh_key:
     - "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIAxhKtsuRENa8bGgKiPjo/jVCe9ptLagFbBFpkvWOK/V peter@DennisLap"
+
+- id: 99
+  name: "Til"
+  ssh_key:
+    - "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIDBZnoX5gt4v0CQDd2EPoThmJlCMK21WTblzJ3oQw78K til@Til-Notebook"
