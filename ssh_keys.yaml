@@ -39,3 +39,8 @@
   name: "Julian"
   ssh_key:
     - "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIOSXg2IB5bcx0eNlO7KSkHyrvha0vI8gh26wqJBileYp julian@machine"
+
+- id: 11
+  name: "Omar"
+  ssh_key:
+    - "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIEaF8rlCvEKAwPoCqyQRoEb+3PyzSJeU8RyPFCzeDDxV"
