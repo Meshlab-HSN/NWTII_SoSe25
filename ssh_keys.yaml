@@ -34,3 +34,7 @@
   name: "Dennis"
   ssh_key:
     - "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIAxhKtsuRENa8bGgKiPjo/jVCe9ptLagFbBFpkvWOK/V peter@DennisLap"
+
+- team: 11
+  name: "Omar"
+  ssh_key: "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIEaF8rlCvEKAwPoCqyQRoEb+3PyzSJeU8RyPFCzeDDxV"
