@@ -75,3 +75,10 @@
   name: "Hannes Steinecke"
   ssh_key:
     - "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIOBctelIXavp62dTlTNgSSdpEtvD0rAppxXcLl/A3a3B hanne@HansLaptop"
+
+    
+  - id: 16
+  name: "Ahmed al"
+  ssh_key:
+    - "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIIz/nC/UTShjaz/TaLMJA0fJt50yOAQWhJqYsMx+KRSR ahmed gamil@DESKTOP-H53Q5D3"
+
