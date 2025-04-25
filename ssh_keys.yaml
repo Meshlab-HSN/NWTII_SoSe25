@@ -65,6 +65,11 @@
   ssh_key:
     - "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIP6czETtXVxpaB5qVLoPFmZZQ1wQ8GL5qIQjegAUOstz kalich@pc04"
 
+- id: 14
+  name: "David"
+  ssh_key:
+    - "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIJQPDi8mA8avtJ5Y9sYz0Skf/sVaZzcn4AKvon9Gc01n dafkl@SmokersBBQFujin"
+
 - id: 15
   name: "Hannes Steinecke"
   ssh_key:
